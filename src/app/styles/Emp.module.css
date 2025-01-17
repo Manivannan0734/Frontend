@@ -1,0 +1,32 @@
+/* Container styles */
+.empcontainer {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  /* Table styles */
+  .emptable {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    transition: 1s;
+    border: 1px solid #ddd;
+  }
+  
+  .emptable{
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+   
+  }
+.emptable:hover{
+    
+
+}
+.row:hover{
+    background-color: #3c4458;
+    transition: 1s;
+    cursor: pointer;
+    color: white;
+}
+  
