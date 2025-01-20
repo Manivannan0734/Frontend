@@ -1,7 +1,7 @@
 
 const Loader = () => {
     return (
-        <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh' }}>
+        <div>
             <div className="spinner"></div>
             <style jsx>{`
                 .spinner {
